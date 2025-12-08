@@ -1,9 +1,9 @@
 Title : Expression dynamics of NKX2-1, EGFR and TP53 define molecular heterogeneity in lung adenocarcinoma.
 
-Overview
+Overview :
 This project performs a comprehensive RNA-seq–based biomarker analysis of TCGA Lung Adenocarcinoma (LUAD) data. The expression of key genes NKX2-1, EGFR, and TP53 is studied to compare Primary Tumor vs Solid Tissue Normal samples and to investigate tumor heterogeneity using correlation, heatmap, and PCA analyses. The processed data are further prepared for interactive Shiny visualization.
 
-Objectives
+Objectives :
 - Extract TPM expression values from TCGA LUAD RNA-seq data
 - Compare NKX2-1 expression between Tumor and Normal samples
 - Perform multi-gene analysis for NKX2-1, EGFR, TP53
@@ -18,7 +18,7 @@ At this URL, you will find the following datasets:  https://figshare.com/s/fd727
 3. Gene expression data (tcga_data.tar.gz)
 
 
-Outputs
+Outputs :
 - Tumor vs Normal boxplots
 - Multi-gene expression comparison
 - Gene–gene correlation scatter plots
@@ -26,10 +26,10 @@ Outputs
 - PCA for tumor clustering
 - Final processed dataset for Shiny: ss_rna_for_shiny.rds
 
-Tools
+Tools :
 - R Programming Language
 - Shiny (for optional interactive dashboard)
 
 
-Conclusion
+Conclusion :
 This project establishes a complete bioinformatics workflow for TCGA LUAD biomarker analysis, demonstrating the expression patterns, correlations, and heterogeneity of NKX2-1, EGFR, and TP53 and enabling both static and interactive visualization.# Final_Project_Al_and_Bioinformatics
